@@ -1,0 +1,3 @@
+Android Battery Stats Analysis
+battery_stats2 logs the video watching
+battery_stats3 logs the heavy gameing
